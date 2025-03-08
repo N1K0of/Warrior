@@ -16,7 +16,7 @@ namespace Warriors
             Console.WriteLine("Выберите класс:");
             Console.WriteLine("1. Варвар");
             Console.WriteLine("2. Воин в легких доспехах");
-            Console.WriteLine("3. воин в тяжелых доспехах");
+            Console.WriteLine("3. Воин в тяжелых доспехах");
             int choice = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Введите изначальынй HP воина:");
